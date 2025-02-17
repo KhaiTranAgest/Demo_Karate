@@ -1,0 +1,9 @@
+{
+  "pimHeader": "//h6[text()='PIM']",
+  "addEmployee": "//a[text()='Add Employee']",
+  "employeeTitle": "//h6[text()='Add Employee']",
+  "firstnameTextBox": "//input[@name='firstName']",
+  "lastnameTextBox": "//input[@name='lastName']",
+  "employeeImage": "//button[contains(@class,'employee-image-action')]",
+  "saveButton": "//button[@type='submit']"
+}
