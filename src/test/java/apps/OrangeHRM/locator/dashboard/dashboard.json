@@ -1,4 +1,7 @@
 {
   "dashboardHeader": "//h6[text()='Dashboard']",
-  "pimTabIcon": "//a//span[text()='PIM']"
+  "pimTabIcon": "//a//span[text()='PIM']",
+  "timesheetTabIcon": "//a//span[text()='Time']",
+  "employeeName": "//p[contains(@class,'userdropdown-name')]",
+  "recruitmentTab": "//span[text()='Recruitment']"
 }

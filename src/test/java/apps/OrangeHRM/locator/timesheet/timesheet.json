@@ -1,0 +1,9 @@
+{
+  "timesheetHeader": "//h6[text()='Timesheets']",
+  "reportNav": "//span[text()='Reports ']",
+  "employeeReportNav": "//a[text()='Employee Reports']",
+  "employeeName": "//form[@class='oxd-form']/div[1]//div[2]//input[@placeholder='Type for hints...']",
+  "dateFrom": "//input[@placeholder='From']",
+  "dateTo": "//input[@placeholder='To']",
+  "viewButton": "//button[@type='submit']"
+}

@@ -1,0 +1,13 @@
+{
+"vacanciesTab": "//li//a[text()='Vacancies']",
+ "recruitmentTitle": "//h6[text()='Recruitment']",
+  "addVacancies": "//button[@class='oxd-button oxd-button--medium oxd-button--secondary']//i",
+  "vacanciesForm": "//div[@class='orangehrm-card-container']",
+  "numberPosition": "//div[3]//input[@class='oxd-input oxd-input--active']",
+  "vacancyName": "//form/div[1]//div[2]/input",
+  "description": "//textarea[@placeholder='Type description here']",
+  "hiringManager": "//div[3]/div[1]/div/div[2]//div/input",
+  "jobTitle": "//div[@class='oxd-select-text--after']//i[@class='oxd-icon bi-caret-down-fill oxd-select-text--arrow']",
+  "jobSelect":"//div[@tabindex='1']",
+  "saveButton": "//button[@type='submit']"
+}

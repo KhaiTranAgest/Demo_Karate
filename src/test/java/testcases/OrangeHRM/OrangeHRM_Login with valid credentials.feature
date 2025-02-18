@@ -1,11 +1,12 @@
 Feature: Login with valid credentials
 
   Background:
-    * startConfig("chrome")
+    * startConfig("chrome_local")
     * def loginpage = locator('OrangeHRM', 'loginpage')
     * def userData = data('OrangeHRM', 'users')
     * def appData = data('OrangeHRM', 'appData')
     * def dashboard = locator('OrangeHRM', 'dashboard')
+
 
   Scenario: Log in
 

@@ -6,6 +6,12 @@
   "validEmployee": {
     "firstname": "John",
     "lastname": "Doe"
+  },
+  "addVacancy": {
+    "vacancyName": "Test Engineer",
+    "decription": "software revenue",
+    "hiringManager": "MS Kim",
+    "numberPosition": "1211221222"
   }
 }
 
